@@ -1,0 +1,1 @@
+este archivo demuestra que se pudo realizar la conexión entre Jira y Github. La tarea está hecha
